@@ -1,8 +1,8 @@
 # repositorioNoviembre
 prueba de clase despliegue
 
-** NEGRITA **
+**NEGRITA**
 
-* Cursiva *
+*Cursiva*
 
-"print("Prueba código fuente")"
+`print("Prueba código fuente")`
